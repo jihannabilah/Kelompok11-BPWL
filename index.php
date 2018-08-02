@@ -14,6 +14,7 @@ use Carbon\Carbon;
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Bolaku</title>
+  <link rel="shortcut icon" href="images/icon.png">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -43,7 +44,7 @@ use Carbon\Carbon;
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-          <a class="navbar-brand" href="index.html">Bolaku.</a>
+          <a class="navbar-brand" href="index.php">Bolaku.</a>
         </div>
 
         <div class="collapse navbar-collapse navbar-right">
@@ -51,9 +52,8 @@ use Carbon\Carbon;
             <li class="active"><a href="index.php">Beranda</a></li>
             <li><a href="internasional.html">Internasional</a></li>
             <li><a href="nasional.html">Nasional</a></li>
-            <li><a href="kontak.html">Kontak</a></li>
+            <li><a href="kontak.php">Kontak</a></li>
             <li><a href="tentang-kami.html">Tentang Kami</a></li>
-            <li><a href="store.html">Store</a></li>
           </ul>
         </div>
       </div>
@@ -494,7 +494,7 @@ use Carbon\Carbon;
                 <div class="panel-heading active">
                   <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne2">
-                                  Alexis Sanchez Manchester United Arrival Piano Promo
+                                  Laga Tunda Persebaya vs PSBI
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
@@ -647,7 +647,7 @@ use Carbon\Carbon;
                 <div class="panel-heading">
                   <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1">
-                                  Konfirmasi Transfer Musim Panas dan Rumor 2018/2019
+                                  Jagoan Sepak Bola ASEAN di Asian Games
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
@@ -671,7 +671,7 @@ use Carbon\Carbon;
                 <div class="panel-heading">
                   <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">
-                                  Striker Anyar Bantu Juventus Hajar Munchen
+                                  Timnas Indonesia U-16 Siap Tempur
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
@@ -695,7 +695,7 @@ use Carbon\Carbon;
                 <div class="panel-heading">
                   <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFour1">
-                                  Thank You, Cristiano Ronaldo!
+                                  Timnas Indonesia U-16 Siap Bertanding di Piala AFF
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
@@ -745,6 +745,11 @@ use Carbon\Carbon;
       </div>
       <!--/.row-->
     </div>
+    <div class="row">
+        <h4 style="text-align: center;">Jika ingin menggunakan layanan berkirim pesan, Anda terlebih dahulu:</h4>
+        <div class="text-center"><a href="form/index.html"><input type="submit" name="submit" class="btn btn-primary btn-lg" value="Daftar" />
+        <input type="submit" name="submit" class="btn btn-primary btn-lg" value="Masuk" /></a></div>
+      </div>
     <!--/.container-->
   </section>
   <!--/#middle-->
@@ -797,8 +802,8 @@ use Carbon\Carbon;
           <div class="widget">
             <h3>Lainnya</h3>
             <ul>
-              <li><a href="video.html">Video</a></li>
-              <li><a href="foto.html">Foto</a></li>
+              <li><a href="#">Video</a></li>
+              <li><a href="#">Foto</a></li>
             </ul>
           </div>
         </div>
@@ -847,7 +852,7 @@ use Carbon\Carbon;
           <ul class="pull-right">
             <li><a href="index.php">Beranda</a></li>
             <li><a href="tentang-kami.html">Tentang Kami</a></li>
-            <li><a href="kontak.html">Kontak</a></li>
+            <li><a href="kontak.php">Kontak</a></li>
           </ul>
         </div>
       </div>
